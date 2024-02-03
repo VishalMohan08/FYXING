@@ -1,0 +1,74 @@
+body
+{
+    font-family: 'Montserrat', sans-serif;
+
+
+}
+h1
+{
+    margin-left: 13%;
+}
+h3,h4
+{
+    font-weight: lighter;
+}
+.content
+{
+    margin-left: 8%;
+}
+.box
+{
+    border-style:solid;
+    background-color: rgba(0, 0, 0,0.7);
+    box-shadow: 2px 2px 2px #1e1e1e;
+    border-style: none;
+    color: rgb(243, 236, 236);
+    border-radius: 50px;
+    margin-top: 4%;
+    margin-left: 20%;
+    height: 42em;
+    width : 55em;
+}
+.mobile-service
+{  
+    font-size: large;
+    margin-bottom: 5%;
+}
+.issue
+{
+    margin-top: 5%;
+}
+.model
+{
+    margin-left: 52.5%;
+    margin-top: -13.75%;
+}
+.IMEI
+{
+    margin-left: 52.5%;
+    margin-top: -13.25%;
+}
+.issue-desc
+{
+    margin-top: 5%;
+}
+.media
+{
+    margin-left: 52.5%;
+    margin-top: -23.5%;
+}
+.submit
+{
+    margin-top: 6%;
+    margin-left: 52.5%;
+}
+.bg{
+    background-image: url("img-MobileRepairBG.jfif");
+    background-size: cover;
+    display: block;
+    height: 100%;
+    left: 0%;
+    position: fixed;
+    right: 0;
+    z-index: 1;
+}

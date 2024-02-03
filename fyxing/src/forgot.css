@@ -1,0 +1,70 @@
+.back1{
+    margin: auto;
+    width: 750px;
+    height:485px;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    margin-top: -60px;
+    background: #EDEFEF;
+    border-radius: 50px;
+}
+.postion0{
+    font-size: medium;
+    padding-left: 210px;
+    margin-top: 200px;    top: 90px;
+
+}
+.input-container0{
+    margin-left: -80px;
+}
+.input-field0{
+    width: 50%;
+    background: black;
+    opacity: 1;
+    font-family: 'Montserrat';
+    font-style: normal;
+    color:white;
+    font-size: large;
+    border-radius: 15px 20px;
+}
+.headpos{
+    font-size: 26px;
+    margin-left: -100px;
+    color: #000000;
+}
+.showP{
+    margin-left: -60px;
+    margin-top: 12px;
+}
+.forgotbutton{
+    font-family: 'Montserrat';
+    font-style: normal;
+    background-color: #22A6F0;
+    color: white;
+    margin-left: 20px;
+    padding: 15px 20px;
+    border: none;
+    cursor: pointer;
+    width: 50%;
+    opacity: 0.9;
+    border-radius: 15px 20px;
+}
+.showPcol{
+    color: #000000;
+}
+.forgotbutton:hover{
+    background-color: steelblue;
+    opacity: 1;
+}
+.Pass{
+    border-radius : 100px;
+    width : 455px;
+    height : 50px;
+    color:white;
+    background-color:#000000;
+    font-size: 15px;
+    padding-left : 15px;
+
+}

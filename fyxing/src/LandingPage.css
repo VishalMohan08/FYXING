@@ -1,0 +1,67 @@
+
+body, html
+{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    height: 100%;
+    margin: 0px;
+}
+
+.bg-image {
+    background-image: url("img-LandingPageBG.gif");
+    background-size: cover;
+    display: block;
+    height: 100%;
+    left: 0%;
+    position: fixed;
+    right: 0;
+    z-index: 1;
+  }
+
+.we-can-fix {
+    background: rgba(16, 9, 9, 0.55);
+    border-radius: 50px;
+    top: 12%;
+    left: 5%;
+    position: fixed;
+    z-index: 2;
+    padding-left: 2%;
+    padding-right: 4%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    color: aliceblue;
+    font-size: 400%;
+    text-align:justify;
+    font-weight: bold;
+  }
+  .trusted-verified-and
+  {
+    background: rgba(16, 9, 9, 0.55);
+    border-radius: 50px;
+    top: 53%;
+    left: 5%;
+    position: fixed;
+    z-index: 2;
+    padding-left: 2%;
+    padding-right: 4%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    color: aliceblue;
+    font-size: 150%;
+    text-align:justify;
+    font-weight: 100;
+  }
+.service-button 
+{
+    position: fixed;
+    top: 81%;
+    left: 8.5%;
+    z-index: 2;
+}
+.login-button
+{
+        position: fixed;
+        top: 81%;
+        left: 21.25%;
+        z-index: 2;
+}

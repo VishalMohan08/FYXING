@@ -1,0 +1,127 @@
+.l-font{
+  position: fixed;
+  width: 524px;
+  height: 78px;
+  top: 40px;
+  left: 550px;
+
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 78px;
+}
+.l-firstdrop {
+  position: fixed;
+  top: 191px;
+  left: 350px;
+
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.l-IMAGE {
+  width: 80px;
+  height: 80px;
+  padding-left: 20px;
+  padding-top: 100px;
+  position: relative;
+}
+.l-secondrop {
+  position: fixed;
+  top: 274px;
+  left: 350px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.l-subfont {
+  position: fixed;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-style: normal;
+  font-size: 28px;
+  top: 130px;
+  left: 350px;
+}
+.l-desclab {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.l-textarea {
+  resize: none;
+}
+.l-selectcunt {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+
+  padding-left: 500px;
+  margin-top: -366px;
+}
+.l-Description {
+  height: 200px;
+  margin-top: 214px;
+  padding-left: 50px;
+}
+.l-seriall {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  padding-left: 500px;
+  margin-top: 22px;
+}
+.l-button:hover {
+  background-color: #2f6db0;
+}
+.l-box {
+  width: 850px;
+  height: 625px;
+  margin: auto;
+  margin-top: 10px;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(60, 57, 57, 0.4);
+  border-radius: 50px;
+}
+.l-button {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: bold;
+  color: white;
+  font-size: 150%;
+  border-color: #22a6f0;
+  border-radius: 50px;
+  width: 150px;
+  height: 60px;
+  background-color: #22a6f0;
+}
+.l-finarr {
+  padding-left: 350px;
+  padding-top: 250px;
+}
+.l-firstlist {
+  background-color: black;
+  color: white;
+  width: 200px;
+  height: 40px;
+  border-radius: 50px;
+}
+.l-secondlist {
+  background-color: black;
+  color: white;
+  width: 200px;
+  height: 40px;
+  border-radius: 50px;
+}
+.l-issueD {
+  height: 175px;
+  width: 350px;
+  border-radius: 50px;
+}
+.l-selectcuntposition {
+  height: 40px;
+  width: 200px;
+  border-radius: 50px;
+  background-color: black;
+  color: white;
+}

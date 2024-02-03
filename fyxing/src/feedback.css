@@ -1,0 +1,72 @@
+.open-button {
+    background-color: #D3D3D3;
+    margin-left: -75px;
+    border-color: #D3D3D3;
+  }
+  .form-popup {
+    position: absolute;
+    
+    top: 222px;
+    left: 500px;
+    border: 3px solid black;
+  }
+  
+  .form-container {
+    max-width: 500px;
+    padding: 10px;
+    background-color: white;
+  }
+
+  .form-container input[type=text], .form-container input[type=email], .form-container input[type=text], .form-container input[type=date]{
+    width:80%;
+    padding: 10px;
+    margin: 5px 0 22px 0;
+    color: white;
+    border-color: #D3D3D3;
+    background: black;
+    border-radius: 9%;
+}
+
+
+  .form-container .btn {
+    background-color: #22A6F0;
+    color: white;
+    padding: 16px 20px;
+    border-color: #22A6F0;
+    border-radius: 15px 20px;
+    margin-left: 2em;
+    width: 90%;
+    opacity: 0.8;
+  }
+  .form-container .cancel {
+    background-color: red;
+    color: white;
+    padding: 16px 20px;
+    border-color: red;
+    border-radius: 15px 20px;
+    margin-left: 2em;
+    width: 90%;
+    opacity: 0.8;
+  }
+  .form-container .btn:hover, .open-button:hover {
+    opacity: 1;
+  }
+
+
+  .input-field{
+    padding: 10px;
+    width: 50%;
+    background: black;
+    opacity: 1;
+    font-family: 'Montserrat';
+    font-style: normal;
+    color: white;
+    border-radius: 15px 20px;
+}
+.input{
+    position: absolute;
+    width: 500px;
+    height: 30px;
+    left: 270px;
+    top: 250px;
+}

@@ -1,0 +1,51 @@
+.navbar1{
+  width: 1440px;
+  height: 90px;
+  margin-top: -10px;
+  left: 10px;
+  right: 20px;
+  background-color: transparent;
+  overflow: auto;
+}
+.navbar1 p{
+  float: right;
+  text-align: center;
+  background-color:transparent;
+  padding: 30px;
+  margin-top: 0.3em;
+  color: white;
+  font-size: 22px;
+  cursor: pointer;
+}
+.navbar1 p:hover{
+  text-decoration:underline;
+  text-decoration-color: #22A6F0;
+}
+.navbar1 a:hover{
+  text-decoration:underline;
+  text-decoration-color: #22A6F0;
+}
+.navbar1 .lg{
+  float: right;
+  margin-top: 1em;
+  
+}
+.navbar1 label{
+  float: left;
+  text-align: center;
+  background-color:transparent;
+  padding: 1.5em;
+  margin-top: 0em;
+  margin-left: -2.2em;
+  color: whitesmoke;
+  font-size: 22px;
+  cursor: pointer;
+
+}
+.navbar1 img{
+  float: left;
+  width: 100px;
+  height: 80px;
+  margin-top: 0.3em;
+  cursor: pointer;
+}
